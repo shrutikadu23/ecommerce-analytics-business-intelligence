@@ -1,0 +1,501 @@
+seller_id,seller_name,seller_email,seller_phone,city,state,specialization_category_id,registration_date,seller_rating,seller_status,is_verified
+1,BrightHub,contact@brighthub.com,9896233790,Ahmedabad,Gujarat,4,2018-07-29,4.4,Active,True
+2,TechMart,sales@techmart.com,9349817734,Kanpur,Uttar Pradesh,1,2023-05-10,4.8,Active,True
+3,UrbanSupplies,support@urbansupplies.com,9398362082,New Delhi,Delhi,6,2020-02-18,4.9,Active,False
+4,GalaxyOutlet,hello@galaxyoutlet.com,9234031070,Kolkata,West Bengal,9,2023-01-11,4.3,Active,True
+5,FutureMart,sales@futuremart.com,9208449460,Siliguri,West Bengal,8,2023-01-18,4.7,Active,True
+6,StarMart,hello@starmart.com,9781802744,New Delhi,Delhi,3,2022-07-07,2.6,Active,True
+7,MetroStore,sales@metrostore.com,9982403818,Nagpur,Maharashtra,7,2022-03-09,3.2,Active,True
+8,ShreeBazaar,info@shreebazaar.com,9253407200,Ahmedabad,Gujarat,4,2025-07-05,4.8,Active,True
+9,RoyalWorld,hello@royalworld.com,9629908599,Bengaluru,Karnataka,2,2018-11-24,3.7,Active,True
+10,PremiumPoint,support@premiumpoint.com,9694021782,Mumbai,Maharashtra,9,2026-02-26,4.0,Active,True
+11,GalaxyElectronics,hello@galaxyelectronics.com,9918150683,New Delhi,Delhi,5,2025-06-03,4.1,Active,True
+12,MetroPoint,contact@metropoint.com,9743111853,Warangal,Telangana,1,2020-01-14,3.8,Active,True
+13,BlueMart,contact@bluemart.com,9885879795,Jaipur,Rajasthan,9,2024-05-11,4.4,Active,True
+14,GreenSupplies,sales@greensupplies.com,9679064766,Madurai,Tamil Nadu,5,2023-02-04,4.2,Active,True
+15,ExpressRetail,hello@expressretail.com,9694768704,Madurai,Tamil Nadu,4,2015-05-01,5.0,Active,True
+16,RoyalElectronics,info@royalelectronics.com,9330035022,Lucknow,Uttar Pradesh,10,2022-05-13,3.8,Active,True
+17,NationalEssentials,info@nationalessentials.com,9541417711,Jaipur,Rajasthan,2,2019-11-26,3.5,Active,True
+18,EliteSupplies,sales@elitesupplies.com,9399085574,Jaipur,Rajasthan,2,2021-07-20,5.0,Active,False
+19,MetroEnterprises,sales@metroenterprises.com,9536383774,Jodhpur,Rajasthan,4,2024-03-01,4.5,Active,False
+20,PremiumFashion,info@premiumfashion.com,9847959430,Kanpur,Uttar Pradesh,8,2019-08-31,4.5,Active,True
+21,ExpressStore,contact@expressstore.com,9727255918,Jaipur,Rajasthan,1,2024-03-23,3.5,Active,False
+22,SuperHub,hello@superhub.com,9364371717,Indore,Madhya Pradesh,10,2020-12-06,4.6,Active,True
+23,ModernBazaar,sales@modernbazaar.com,9821221887,Surat,Gujarat,6,2024-03-15,4.8,Active,True
+24,OmTraders,hello@omtraders.com,9384756779,New Delhi,Delhi,2,2025-01-13,4.7,Active,True
+25,BrightPoint,contact@brightpoint.com,9817112652,Noida,Uttar Pradesh,2,2024-05-17,4.9,Active,True
+26,FutureCenter,sales@futurecenter.com,9870530217,Hyderabad,Telangana,5,2022-05-30,3.3,Active,True
+27,ModernStore,contact@modernstore.com,9458153605,New Delhi,Delhi,3,2025-07-18,4.2,Active,False
+28,NextWorld,hello@nextworld.com,9138684919,Hyderabad,Telangana,7,2019-09-24,5.0,Inactive,True
+29,ClassicTraders,sales@classictraders.com,9816114302,Mysuru,Karnataka,9,2025-02-20,2.7,Inactive,True
+30,UrbanSolutions,info@urbansolutions.com,9126614158,New Delhi,Delhi,7,2026-06-03,4.1,Active,True
+31,SuperStore,info@superstore.com,9338836384,Coimbatore,Tamil Nadu,6,2022-04-12,4.8,Active,True
+32,SmartElectronics,support@smartelectronics.com,9788785773,Noida,Uttar Pradesh,9,2021-02-26,5.0,Active,False
+33,PrimeCenter,info@primecenter.com,9471178705,Warangal,Telangana,10,2024-04-28,4.8,Active,True
+34,TechPoint,hello@techpoint.com,9837507241,Coimbatore,Tamil Nadu,7,2019-11-08,4.3,Active,False
+35,SaiFashion,info@saifashion.com,9450236225,Siliguri,West Bengal,9,2020-05-11,4.2,Active,True
+36,BlueFashion,info@bluefashion.com,9688343096,Nagpur,Maharashtra,5,2019-10-22,4.2,Active,True
+37,GalaxySolutions,contact@galaxysolutions.com,9404713332,Kanpur,Uttar Pradesh,10,2022-04-27,4.1,Active,True
+38,RoyalCorner,hello@royalcorner.com,9925159146,Mysuru,Karnataka,7,2025-08-12,4.8,Active,True
+39,BrightRetail,contact@brightretail.com,9935822550,Kolkata,West Bengal,3,2025-12-13,4.0,Active,False
+40,PremiumWorld,info@premiumworld.com,9816806128,Kanpur,Uttar Pradesh,10,2023-06-26,4.3,Active,False
+41,OmOutlet,sales@omoutlet.com,9898493949,Jodhpur,Rajasthan,5,2026-05-10,4.3,Active,True
+42,ModernOutlet,contact@modernoutlet.com,9866162966,Ahmedabad,Gujarat,5,2021-06-15,4.6,Active,True
+43,SmartSupplies,info@smartsupplies.com,9455281184,Noida,Uttar Pradesh,7,2020-05-10,4.9,Inactive,True
+44,MetroIndia,info@metroindia.com,9612153089,Nagpur,Maharashtra,5,2026-05-23,3.8,Active,True
+45,GreenEnterprises,info@greenenterprises.com,9335602191,Surat,Gujarat,8,2016-11-19,4.3,Active,False
+46,EliteCenter,hello@elitecenter.com,9128955006,Kolkata,West Bengal,2,2021-10-05,3.6,Active,True
+47,PremiumLifestyle,support@premiumlifestyle.com,9917364173,Siliguri,West Bengal,7,2021-06-17,4.3,Active,False
+48,RoyalMart,contact@royalmart.com,9909851739,Pune,Maharashtra,4,2025-09-28,4.6,Active,True
+49,GlobalOutlet,support@globaloutlet.com,9923450567,Hyderabad,Telangana,10,2021-08-23,3.6,Active,True
+50,FutureIndia,info@futureindia.com,9525904456,Chennai,Tamil Nadu,10,2022-05-13,4.9,Active,True
+51,PrimeIndia,contact@primeindia.com,9472807202,Noida,Uttar Pradesh,6,2019-11-30,4.7,Active,True
+52,ClassicOutlet,sales@classicoutlet.com,9567600762,New Delhi,Delhi,10,2025-07-05,3.7,Active,True
+53,ExpressEnterprises,contact@expressenterprises.com,9399496923,Jaipur,Rajasthan,8,2023-02-16,4.7,Active,True
+54,ClassicElectronics,support@classicelectronics.com,9400281010,Bhopal,Madhya Pradesh,9,2016-01-27,4.9,Active,True
+55,NextCorner,info@nextcorner.com,9581223755,Mumbai,Maharashtra,5,2019-05-14,4.8,Active,True
+56,NationalMarketplace,support@nationalmarketplace.com,9477753674,Jodhpur,Rajasthan,5,2021-09-05,4.1,Active,False
+57,NextSolutions,sales@nextsolutions.com,9332341238,Jodhpur,Rajasthan,10,2025-06-21,4.4,Active,True
+58,ClassicSolutions,support@classicsolutions.com,9115191689,Lucknow,Uttar Pradesh,5,2015-04-22,4.3,Active,False
+59,ShreeHub,contact@shreehub.com,9716396766,Surat,Gujarat,8,2022-01-13,3.1,Active,True
+60,SmartBazaar,info@smartbazaar.com,9179545125,Indore,Madhya Pradesh,3,2019-09-15,4.6,Active,True
+61,GreenCenter,sales@greencenter.com,9932894596,Noida,Uttar Pradesh,8,2024-10-31,3.9,Active,True
+62,GreenHub,sales@greenhub.com,9771641650,Coimbatore,Tamil Nadu,2,2018-12-22,4.1,Active,True
+63,ShreeFashion,contact@shreefashion.com,9348545713,Vadodara,Gujarat,5,2025-04-09,4.6,Active,True
+64,BlueTraders,info@bluetraders.com,9223240112,Lucknow,Uttar Pradesh,3,2026-04-26,4.5,Active,True
+65,PremiumHub,info@premiumhub.com,9839462365,Vadodara,Gujarat,7,2025-05-27,4.2,Active,False
+66,GalaxyLifestyle,hello@galaxylifestyle.com,9368830491,Mumbai,Maharashtra,4,2026-05-06,3.7,Active,True
+67,ModernIndia,contact@modernindia.com,9919382051,New Delhi,Delhi,9,2022-07-24,4.8,Active,True
+68,SmartCorner,support@smartcorner.com,9538460431,Warangal,Telangana,2,2024-12-03,4.2,Active,True
+69,MetroMarketplace,contact@metromarketplace.com,9588365604,Mysuru,Karnataka,5,2023-04-08,3.8,Active,False
+70,PremiumSupplies,contact@premiumsupplies.com,9301415220,Noida,Uttar Pradesh,10,2025-10-02,4.0,Active,True
+71,FutureOutlet,info@futureoutlet.com,9230380269,Pune,Maharashtra,3,2021-01-29,4.0,Suspended,False
+72,BrightWorld,info@brightworld.com,9869446962,Vadodara,Gujarat,5,2023-09-16,2.2,Active,True
+73,GreenPoint,sales@greenpoint.com,9174958005,Surat,Gujarat,6,2025-06-03,4.5,Active,False
+74,BlueCorner,sales@bluecorner.com,9579476614,Noida,Uttar Pradesh,6,2023-02-12,4.1,Active,True
+75,BlueBazaar,sales@bluebazaar.com,9932734539,Kolkata,West Bengal,6,2025-12-23,3.2,Suspended,True
+76,ShreeStore,sales@shreestore.com,9639331014,Bhopal,Madhya Pradesh,2,2025-03-26,5.0,Active,True
+77,ModernLifestyle,hello@modernlifestyle.com,9843785903,Kolkata,West Bengal,6,2026-05-29,4.4,Active,False
+78,ShreeMarketplace,contact@shreemarketplace.com,9762992051,Bengaluru,Karnataka,5,2026-02-03,5.0,Active,True
+79,PrimeOutlet,sales@primeoutlet.com,9845178074,Ahmedabad,Gujarat,1,2021-04-25,4.7,Active,True
+80,BlueSolutions,sales@bluesolutions.com,9287979290,Hubballi,Karnataka,7,2022-05-09,4.2,Active,True
+81,PremiumElectronics,contact@premiumelectronics.com,9963968184,Jodhpur,Rajasthan,9,2020-06-23,3.4,Active,False
+82,NextElectronics,info@nextelectronics.com,9424400672,Coimbatore,Tamil Nadu,8,2020-02-21,4.2,Suspended,True
+83,StarBazaar,support@starbazaar.com,9108695125,Indore,Madhya Pradesh,10,2026-05-02,3.1,Active,True
+84,ClassicEnterprises,sales@classicenterprises.com,9766676815,Vadodara,Gujarat,3,2021-03-22,4.7,Active,True
+85,SmartFashion,support@smartfashion.com,9902601465,Kolkata,West Bengal,4,2020-01-20,4.4,Active,True
+86,SmartWorld,sales@smartworld.com,9826197069,Siliguri,West Bengal,2,2024-01-15,4.6,Active,True
+87,SuperEssentials,contact@superessentials.com,9824600232,Coimbatore,Tamil Nadu,1,2022-11-03,3.1,Active,False
+88,NextFashion,info@nextfashion.com,9225279834,New Delhi,Delhi,1,2023-10-06,4.6,Active,True
+89,ClassicMarketplace,info@classicmarketplace.com,9730651895,New Delhi,Delhi,2,2025-09-22,4.4,Active,True
+90,PremiumOutlet,sales@premiumoutlet.com,9489431174,Hubballi,Karnataka,6,2023-01-05,4.6,Inactive,False
+91,PremiumMart,sales@premiummart.com,9789024924,Indore,Madhya Pradesh,1,2024-09-06,2.7,Active,False
+92,RoyalLifestyle,sales@royallifestyle.com,9946799779,Indore,Madhya Pradesh,5,2024-05-28,2.5,Active,True
+93,TechWorld,contact@techworld.com,9484659715,Madurai,Tamil Nadu,6,2016-06-27,4.9,Active,True
+94,ShreeOutlet,support@shreeoutlet.com,9651085057,Indore,Madhya Pradesh,8,2021-03-30,4.4,Active,True
+95,DigitalCorner,info@digitalcorner.com,9557707813,Mysuru,Karnataka,8,2018-06-15,4.6,Active,True
+96,BlueMarketplace,support@bluemarketplace.com,9508992977,Bhopal,Madhya Pradesh,8,2023-06-01,4.9,Active,True
+97,GalaxyTraders,info@galaxytraders.com,9584853393,Coimbatore,Tamil Nadu,6,2025-02-12,4.0,Active,True
+98,ClassicWorld,info@classicworld.com,9172083844,Bengaluru,Karnataka,2,2023-02-03,3.7,Active,True
+99,ExpressHub,info@expresshub.com,9479673044,Kolkata,West Bengal,5,2022-12-22,4.8,Active,True
+100,PrimeEssentials,hello@primeessentials.com,9494665673,Mysuru,Karnataka,10,2020-05-28,3.9,Active,True
+101,BrightMarketplace,contact@brightmarketplace.com,9753903309,Ahmedabad,Gujarat,3,2022-09-25,3.1,Active,True
+102,GalaxyRetail,contact@galaxyretail.com,9901131404,Lucknow,Uttar Pradesh,7,2022-11-30,4.7,Active,False
+103,GreenMart,contact@greenmart.com,9267052653,New Delhi,Delhi,2,2023-05-19,4.2,Active,True
+104,NationalHub,support@nationalhub.com,9828230915,Bhopal,Madhya Pradesh,9,2021-04-04,5.0,Active,True
+105,GlobalWorld,support@globalworld.com,9410791488,Hyderabad,Telangana,1,2023-06-01,4.7,Active,True
+106,StarEssentials,contact@staressentials.com,9526351920,Nashik,Maharashtra,1,2021-06-09,3.7,Active,True
+107,NationalFashion,contact@nationalfashion.com,9534900128,Nagpur,Maharashtra,3,2025-09-24,4.3,Active,True
+108,PrimeEnterprises,info@primeenterprises.com,9732295732,Kolkata,West Bengal,7,2026-02-02,4.7,Active,True
+109,PrimePoint,hello@primepoint.com,9308202515,Warangal,Telangana,3,2018-10-27,4.6,Active,True
+110,SmartSolutions,info@smartsolutions.com,9598165815,Bhopal,Madhya Pradesh,10,2022-10-24,3.8,Active,True
+111,DigitalEssentials,hello@digitalessentials.com,9179661615,Surat,Gujarat,8,2017-01-25,3.5,Active,False
+112,SaiBazaar,info@saibazaar.com,9723123952,Kanpur,Uttar Pradesh,1,2022-01-21,4.7,Active,True
+113,PrimeLifestyle,contact@primelifestyle.com,9641755366,New Delhi,Delhi,4,2025-03-25,4.2,Active,False
+114,SuperSupplies,support@supersupplies.com,9828960875,Indore,Madhya Pradesh,6,2018-07-13,4.2,Active,False
+115,GreenWorld,support@greenworld.com,9187512088,Indore,Madhya Pradesh,6,2023-03-14,4.9,Active,True
+116,BrightLifestyle,sales@brightlifestyle.com,9819532005,Lucknow,Uttar Pradesh,7,2021-02-07,4.6,Active,False
+117,ShreeTraders,sales@shreetraders.com,9247709679,New Delhi,Delhi,5,2024-04-13,4.2,Active,True
+118,StarLifestyle,hello@starlifestyle.com,9240712839,Bhopal,Madhya Pradesh,3,2018-12-06,4.0,Active,True
+119,PremiumCenter,support@premiumcenter.com,9907873857,Jaipur,Rajasthan,9,2020-08-18,3.1,Active,True
+120,MetroFashion,info@metrofashion.com,9639991949,Noida,Uttar Pradesh,3,2026-03-31,4.3,Active,True
+121,PrimeFashion,contact@primefashion.com,9919390458,New Delhi,Delhi,8,2024-05-30,3.5,Inactive,False
+122,ClassicRetail,info@classicretail.com,9157184151,Siliguri,West Bengal,4,2021-06-17,4.5,Inactive,False
+123,EliteWorld,contact@eliteworld.com,9408034406,Jaipur,Rajasthan,8,2021-01-11,3.0,Active,True
+124,GalaxyCenter,hello@galaxycenter.com,9554466340,Mysuru,Karnataka,4,2021-04-08,4.8,Active,True
+125,ShreeCenter,hello@shreecenter.com,9117647321,Kanpur,Uttar Pradesh,4,2024-10-25,4.2,Active,True
+126,SaiEssentials,contact@saiessentials.com,9664852025,Kanpur,Uttar Pradesh,9,2023-03-11,3.5,Active,True
+127,ClassicMart,support@classicmart.com,9358906986,Hubballi,Karnataka,6,2019-12-23,4.3,Active,True
+128,PremiumCorner,sales@premiumcorner.com,9971339002,New Delhi,Delhi,8,2016-02-17,4.6,Active,False
+129,OmCorner,support@omcorner.com,9139321248,Coimbatore,Tamil Nadu,6,2024-02-18,3.6,Active,True
+130,SuperOutlet,info@superoutlet.com,9464037804,New Delhi,Delhi,8,2023-11-30,4.5,Active,True
+131,UrbanMarketplace,support@urbanmarketplace.com,9444898148,Bengaluru,Karnataka,6,2022-09-20,4.3,Active,True
+132,PremiumStore,support@premiumstore.com,9760191749,Siliguri,West Bengal,1,2020-04-11,4.9,Active,False
+133,StarOutlet,contact@staroutlet.com,9235538456,Bengaluru,Karnataka,6,2021-03-08,4.3,Inactive,True
+134,MetroMart,hello@metromart.com,9247848992,Noida,Uttar Pradesh,7,2022-07-25,4.6,Active,True
+135,SuperMarketplace,contact@supermarketplace.com,9381080560,Vadodara,Gujarat,8,2019-08-08,4.4,Active,True
+136,SmartOutlet,sales@smartoutlet.com,9865975088,Jaipur,Rajasthan,6,2021-05-13,4.1,Active,True
+137,ClassicPoint,sales@classicpoint.com,9230311939,Chennai,Tamil Nadu,4,2024-01-27,4.8,Active,False
+138,SmartMart,support@smartmart.com,9527521016,Jodhpur,Rajasthan,7,2024-03-16,4.7,Active,True
+139,EliteMarketplace,hello@elitemarketplace.com,9295381429,New Delhi,Delhi,9,2024-02-26,3.7,Active,True
+140,NextEnterprises,support@nextenterprises.com,9657162259,Ahmedabad,Gujarat,5,2019-07-17,4.7,Active,True
+141,UrbanIndia,hello@urbanindia.com,9265564833,New Delhi,Delhi,10,2015-02-28,5.0,Active,True
+142,GlobalIndia,info@globalindia.com,9763688866,Nashik,Maharashtra,9,2022-09-11,4.3,Active,True
+143,SmartStore,sales@smartstore.com,9572022811,Siliguri,West Bengal,8,2018-10-22,4.9,Active,False
+144,SuperWorld,support@superworld.com,9652955706,Lucknow,Uttar Pradesh,6,2018-09-08,4.6,Active,True
+145,SuperCenter,info@supercenter.com,9366578178,New Delhi,Delhi,10,2024-07-13,3.7,Active,True
+146,FutureCorner,contact@futurecorner.com,9196689473,Siliguri,West Bengal,4,2019-12-24,4.6,Active,False
+147,StarCorner,support@starcorner.com,9676267306,Mumbai,Maharashtra,7,2019-06-26,4.3,Active,True
+148,GlobalEssentials,hello@globalessentials.com,9409883716,Mysuru,Karnataka,9,2022-07-27,3.7,Active,True
+149,PrimeBazaar,support@primebazaar.com,9953514394,Warangal,Telangana,3,2020-11-08,4.0,Active,True
+150,ShreePoint,info@shreepoint.com,9259923818,Indore,Madhya Pradesh,6,2024-11-22,5.0,Active,True
+151,ExpressPoint,hello@expresspoint.com,9671595541,Jodhpur,Rajasthan,8,2025-01-12,4.6,Active,True
+152,GreenCorner,support@greencorner.com,9803935444,Indore,Madhya Pradesh,1,2021-12-16,4.3,Active,True
+153,StarEnterprises,contact@starenterprises.com,9714792641,Bengaluru,Karnataka,1,2023-05-08,4.8,Active,True
+154,SaiTraders,hello@saitraders.com,9449019278,Jodhpur,Rajasthan,6,2025-04-15,3.1,Active,True
+155,GlobalEnterprises,support@globalenterprises.com,9699240979,Ahmedabad,Gujarat,5,2025-12-22,4.9,Active,True
+156,FutureHub,hello@futurehub.com,9826517607,Noida,Uttar Pradesh,7,2026-03-02,3.6,Active,True
+157,BrightElectronics,info@brightelectronics.com,9329766590,Madurai,Tamil Nadu,5,2025-12-13,4.6,Active,True
+158,DigitalPoint,sales@digitalpoint.com,9784987769,Chennai,Tamil Nadu,2,2023-08-26,4.9,Active,True
+159,BrightCorner,info@brightcorner.com,9798510601,Coimbatore,Tamil Nadu,6,2021-05-02,3.0,Active,True
+160,GalaxyStore,sales@galaxystore.com,9548700579,New Delhi,Delhi,7,2024-07-09,3.4,Inactive,False
+161,TechFashion,hello@techfashion.com,9747233283,Mysuru,Karnataka,5,2023-12-10,4.4,Active,True
+162,GlobalHub,support@globalhub.com,9274476883,Jodhpur,Rajasthan,3,2016-11-21,3.7,Active,True
+163,BrightBazaar,info@brightbazaar.com,9653278397,Hyderabad,Telangana,7,2022-01-14,2.4,Inactive,True
+164,SuperEnterprises,info@superenterprises.com,9909340042,Surat,Gujarat,5,2021-01-24,4.7,Active,True
+165,UrbanBazaar,hello@urbanbazaar.com,9855438611,Vadodara,Gujarat,2,2022-08-28,4.6,Inactive,True
+166,ClassicSupplies,hello@classicsupplies.com,9605547798,Kanpur,Uttar Pradesh,4,2025-11-27,3.8,Active,True
+167,NextEssentials,contact@nextessentials.com,9705771555,Bengaluru,Karnataka,9,2024-07-26,4.1,Active,True
+168,PrimeTraders,hello@primetraders.com,9624875038,Hubballi,Karnataka,8,2025-04-09,4.7,Active,True
+169,StarFashion,contact@starfashion.com,9525146690,Ahmedabad,Gujarat,4,2021-04-03,4.3,Active,True
+170,DigitalFashion,info@digitalfashion.com,9293253475,New Delhi,Delhi,6,2025-01-26,4.4,Active,True
+171,StarMarketplace,sales@starmarketplace.com,9801726890,Hyderabad,Telangana,3,2025-02-06,4.3,Active,True
+172,PremiumMarketplace,info@premiummarketplace.com,9671159367,Kolkata,West Bengal,4,2021-11-14,5.0,Active,True
+173,StarSupplies,hello@starsupplies.com,9922543647,Pune,Maharashtra,4,2018-03-10,4.3,Active,True
+174,DigitalBazaar,info@digitalbazaar.com,9351619881,Lucknow,Uttar Pradesh,1,2019-08-16,5.0,Active,True
+175,MetroLifestyle,sales@metrolifestyle.com,9424017094,New Delhi,Delhi,7,2021-05-05,4.2,Active,True
+176,SaiLifestyle,info@sailifestyle.com,9538364955,New Delhi,Delhi,7,2020-08-27,4.6,Active,True
+177,OmSupplies,info@omsupplies.com,9698382096,Lucknow,Uttar Pradesh,7,2019-02-21,4.5,Active,True
+178,DigitalElectronics,info@digitalelectronics.com,9823349713,Indore,Madhya Pradesh,2,2019-03-21,4.3,Active,False
+179,TechTraders,sales@techtraders.com,9896152940,Hubballi,Karnataka,8,2025-12-13,4.1,Inactive,True
+180,OmEssentials,support@omessentials.com,9380849661,Warangal,Telangana,8,2020-08-19,3.6,Active,True
+181,DigitalIndia,sales@digitalindia.com,9895913682,New Delhi,Delhi,5,2023-05-06,4.6,Active,True
+182,OmLifestyle,support@omlifestyle.com,9919652226,Jodhpur,Rajasthan,8,2019-12-23,4.9,Active,False
+183,OmStore,hello@omstore.com,9136317983,Hubballi,Karnataka,1,2025-02-26,4.8,Active,True
+184,GlobalPoint,info@globalpoint.com,9500721199,Nashik,Maharashtra,8,2017-12-25,4.0,Active,True
+185,FutureRetail,hello@futureretail.com,9973120912,Kolkata,West Bengal,2,2025-06-20,4.6,Active,False
+186,SmartEssentials,info@smartessentials.com,9592845076,Indore,Madhya Pradesh,4,2021-06-15,4.3,Active,True
+187,SuperBazaar,hello@superbazaar.com,9611106584,Mumbai,Maharashtra,3,2020-06-07,4.1,Inactive,False
+188,SaiStore,sales@saistore.com,9327007332,Bhopal,Madhya Pradesh,5,2015-06-02,4.1,Active,True
+189,UrbanLifestyle,contact@urbanlifestyle.com,9322434334,Indore,Madhya Pradesh,7,2024-11-02,4.6,Active,True
+190,NextMart,hello@nextmart.com,9900427880,Hyderabad,Telangana,2,2021-06-05,4.9,Inactive,True
+191,TechElectronics,info@techelectronics.com,9626781451,Coimbatore,Tamil Nadu,9,2025-03-18,4.8,Active,True
+192,FutureEnterprises,contact@futureenterprises.com,9188087644,Ahmedabad,Gujarat,7,2025-10-11,4.7,Active,True
+193,PrimeWorld,contact@primeworld.com,9301210399,Siliguri,West Bengal,9,2023-04-16,4.5,Active,True
+194,ExpressBazaar,contact@expressbazaar.com,9413368711,Siliguri,West Bengal,2,2025-07-26,3.4,Active,True
+195,SuperSolutions,sales@supersolutions.com,9388749542,Surat,Gujarat,8,2018-12-09,4.2,Active,True
+196,ModernEnterprises,info@modernenterprises.com,9737594763,Indore,Madhya Pradesh,8,2019-09-16,4.7,Active,True
+197,ExpressOutlet,support@expressoutlet.com,9562370643,Indore,Madhya Pradesh,5,2022-02-16,4.1,Active,True
+198,GalaxyCorner,hello@galaxycorner.com,9939638591,Coimbatore,Tamil Nadu,7,2023-03-16,5.0,Active,False
+199,TechOutlet,sales@techoutlet.com,9570787423,Vadodara,Gujarat,2,2026-03-25,3.8,Active,True
+200,ModernWorld,info@modernworld.com,9947264726,Kolkata,West Bengal,8,2025-05-05,4.2,Inactive,False
+201,NextMarketplace,hello@nextmarketplace.com,9785240944,Bengaluru,Karnataka,4,2022-12-29,4.8,Active,True
+202,TechHub,support@techhub.com,9338371847,Kanpur,Uttar Pradesh,9,2022-03-29,4.2,Active,True
+203,SaiWorld,support@saiworld.com,9126373949,Jaipur,Rajasthan,5,2021-06-25,5.0,Active,True
+204,PremiumTraders,hello@premiumtraders.com,9618537844,Warangal,Telangana,2,2023-07-16,4.7,Active,True
+205,StarSolutions,sales@starsolutions.com,9654044237,New Delhi,Delhi,6,2023-08-05,4.7,Active,True
+206,NationalBazaar,contact@nationalbazaar.com,9891764728,Indore,Madhya Pradesh,8,2023-03-08,4.6,Active,True
+207,SmartIndia,contact@smartindia.com,9958459117,Lucknow,Uttar Pradesh,6,2023-07-27,4.8,Active,False
+208,ExpressCenter,info@expresscenter.com,9756387421,Kolkata,West Bengal,6,2023-07-27,4.3,Active,True
+209,GreenIndia,contact@greenindia.com,9821672704,New Delhi,Delhi,2,2018-08-28,4.8,Active,True
+210,EliteIndia,info@eliteindia.com,9554234434,New Delhi,Delhi,9,2021-12-21,4.2,Active,True
+211,TechCorner,sales@techcorner.com,9309517616,Siliguri,West Bengal,7,2023-05-02,4.2,Active,True
+212,FutureStore,support@futurestore.com,9341423782,Noida,Uttar Pradesh,3,2025-08-02,4.3,Active,True
+213,PrimeElectronics,hello@primeelectronics.com,9983993176,Hyderabad,Telangana,8,2023-05-21,4.9,Active,True
+214,DigitalOutlet,support@digitaloutlet.com,9474281674,Mysuru,Karnataka,2,2024-08-30,4.9,Active,False
+215,UrbanCenter,sales@urbancenter.com,9942725534,Chennai,Tamil Nadu,1,2023-12-27,4.8,Active,True
+216,ModernPoint,contact@modernpoint.com,9245587477,Kolkata,West Bengal,5,2024-05-09,4.1,Active,True
+217,RoyalBazaar,info@royalbazaar.com,9252655630,Bhopal,Madhya Pradesh,7,2021-06-04,4.4,Active,True
+218,ModernEssentials,info@modernessentials.com,9624033772,Hyderabad,Telangana,2,2025-04-14,4.3,Active,True
+219,SuperTraders,info@supertraders.com,9985673417,Coimbatore,Tamil Nadu,5,2022-08-04,4.8,Active,True
+220,DigitalHub,info@digitalhub.com,9117481970,Bengaluru,Karnataka,8,2023-05-27,4.8,Active,True
+221,UrbanElectronics,contact@urbanelectronics.com,9802858478,Warangal,Telangana,2,2021-12-05,4.8,Active,True
+222,NationalMart,contact@nationalmart.com,9101166414,Coimbatore,Tamil Nadu,2,2019-04-09,4.2,Active,True
+223,PrimeSupplies,sales@primesupplies.com,9612926731,Bengaluru,Karnataka,7,2018-07-29,4.7,Active,True
+224,MetroWorld,sales@metroworld.com,9173456403,Kanpur,Uttar Pradesh,1,2021-12-03,4.3,Active,True
+225,NationalCenter,info@nationalcenter.com,9333264702,Bengaluru,Karnataka,3,2025-08-26,4.1,Active,True
+226,BrightMart,sales@brightmart.com,9694205108,Bhopal,Madhya Pradesh,1,2025-11-05,3.6,Active,True
+227,SuperFashion,contact@superfashion.com,9941600554,Coimbatore,Tamil Nadu,7,2020-10-20,4.0,Active,True
+228,ClassicLifestyle,sales@classiclifestyle.com,9515364404,Bhopal,Madhya Pradesh,6,2021-12-20,3.9,Active,True
+229,SmartRetail,support@smartretail.com,9331652222,Mumbai,Maharashtra,7,2023-10-24,3.7,Active,True
+230,OmCenter,sales@omcenter.com,9397928718,Mysuru,Karnataka,2,2022-02-21,2.1,Active,True
+231,FutureSupplies,sales@futuresupplies.com,9162176039,Chennai,Tamil Nadu,7,2018-04-23,4.9,Active,True
+232,NextRetail,sales@nextretail.com,9633019326,Warangal,Telangana,3,2022-07-05,4.0,Active,True
+233,NationalElectronics,hello@nationalelectronics.com,9168582026,Vadodara,Gujarat,10,2023-10-14,4.1,Active,True
+234,ModernHub,hello@modernhub.com,9823831302,Bengaluru,Karnataka,9,2015-01-26,4.7,Active,True
+235,DigitalMarketplace,info@digitalmarketplace.com,9341071485,Hyderabad,Telangana,7,2024-11-23,4.5,Active,True
+236,DigitalSolutions,sales@digitalsolutions.com,9963651372,Lucknow,Uttar Pradesh,7,2020-08-10,3.8,Active,True
+237,PremiumRetail,support@premiumretail.com,9315469014,Vadodara,Gujarat,5,2024-09-05,4.2,Active,True
+238,GlobalMarketplace,sales@globalmarketplace.com,9261669421,Nashik,Maharashtra,1,2019-12-11,4.3,Active,True
+239,MetroBazaar,support@metrobazaar.com,9211614410,Madurai,Tamil Nadu,4,2021-05-03,2.1,Active,True
+240,RoyalPoint,info@royalpoint.com,9852528635,Warangal,Telangana,2,2023-11-02,4.9,Active,True
+241,NationalWorld,sales@nationalworld.com,9413184748,Surat,Gujarat,7,2026-01-23,4.7,Active,False
+242,PrimeSolutions,info@primesolutions.com,9600422869,Warangal,Telangana,2,2022-03-02,4.2,Active,True
+243,NextCenter,contact@nextcenter.com,9330876810,Hyderabad,Telangana,2,2024-12-30,4.5,Active,False
+244,UrbanRetail,info@urbanretail.com,9585547305,Kanpur,Uttar Pradesh,9,2020-08-04,4.9,Active,True
+245,EliteTraders,info@elitetraders.com,9499689381,Hubballi,Karnataka,10,2021-06-03,4.5,Inactive,True
+246,EliteMart,support@elitemart.com,9231563076,Nashik,Maharashtra,1,2020-06-06,3.7,Active,True
+247,UrbanEssentials,sales@urbanessentials.com,9300951978,Surat,Gujarat,8,2024-02-05,4.2,Active,True
+248,DigitalMart,support@digitalmart.com,9511259527,New Delhi,Delhi,4,2023-12-13,5.0,Active,True
+249,ShreeEssentials,hello@shreeessentials.com,9639440654,Warangal,Telangana,5,2019-10-16,4.0,Active,True
+250,ClassicIndia,sales@classicindia.com,9271395839,Bengaluru,Karnataka,4,2021-04-25,3.9,Active,False
+251,RoyalIndia,support@royalindia.com,9965661638,Hyderabad,Telangana,6,2025-07-31,5.0,Active,False
+252,FutureSolutions,info@futuresolutions.com,9140763261,Bengaluru,Karnataka,4,2021-02-10,4.0,Inactive,True
+253,EliteLifestyle,sales@elitelifestyle.com,9961596686,Hyderabad,Telangana,1,2018-10-18,3.8,Active,False
+254,ClassicBazaar,hello@classicbazaar.com,9208482467,Warangal,Telangana,6,2018-11-19,4.2,Active,True
+255,ExpressSolutions,hello@expresssolutions.com,9844704803,Bhopal,Madhya Pradesh,4,2021-12-26,4.9,Active,True
+256,TechIndia,info@techindia.com,9927672827,Indore,Madhya Pradesh,3,2022-03-29,4.0,Active,True
+257,SmartEnterprises,support@smartenterprises.com,9443080569,New Delhi,Delhi,6,2022-06-28,4.8,Active,True
+258,ShreeIndia,sales@shreeindia.com,9274651099,Jaipur,Rajasthan,1,2022-10-15,4.6,Active,False
+259,UrbanMart,hello@urbanmart.com,9199970392,Warangal,Telangana,1,2021-12-04,4.2,Active,True
+260,GlobalSupplies,hello@globalsupplies.com,9875282507,Noida,Uttar Pradesh,5,2021-07-16,4.8,Active,True
+261,PrimeRetail,sales@primeretail.com,9283429671,Ahmedabad,Gujarat,8,2024-11-11,3.7,Active,True
+262,BlueStore,sales@bluestore.com,9907706333,Bengaluru,Karnataka,6,2025-02-27,2.5,Active,False
+263,SaiSupplies,hello@saisupplies.com,9837733572,Jaipur,Rajasthan,8,2023-03-20,3.3,Active,False
+264,BlueCenter,sales@bluecenter.com,9229151674,Jaipur,Rajasthan,3,2026-04-07,4.5,Active,True
+265,GreenElectronics,support@greenelectronics.com,9880720904,Bengaluru,Karnataka,7,2022-10-30,3.7,Inactive,True
+266,BluePoint,info@bluepoint.com,9220816186,Kolkata,West Bengal,3,2021-07-25,3.2,Active,True
+267,SuperCorner,hello@supercorner.com,9753868135,Jaipur,Rajasthan,3,2021-10-22,4.3,Active,True
+268,TechLifestyle,support@techlifestyle.com,9433879270,Surat,Gujarat,2,2024-08-21,5.0,Active,False
+269,ModernSupplies,hello@modernsupplies.com,9793159203,Bengaluru,Karnataka,8,2020-04-13,4.3,Active,False
+270,SaiSolutions,contact@saisolutions.com,9434065879,Noida,Uttar Pradesh,3,2025-06-20,3.5,Active,False
+271,DigitalEnterprises,contact@digitalenterprises.com,9590108029,Nagpur,Maharashtra,4,2023-08-09,4.3,Active,True
+272,ClassicCorner,hello@classiccorner.com,9578999915,New Delhi,Delhi,10,2022-12-07,4.9,Active,True
+273,MetroTraders,sales@metrotraders.com,9795118868,Madurai,Tamil Nadu,4,2023-04-19,4.3,Inactive,True
+274,ShreeWorld,sales@shreeworld.com,9745471251,Pune,Maharashtra,5,2022-09-18,4.3,Active,False
+275,ModernTraders,info@moderntraders.com,9424425818,Kanpur,Uttar Pradesh,7,2021-01-16,4.3,Active,True
+276,BrightCenter,hello@brightcenter.com,9403521991,Vadodara,Gujarat,2,2022-11-20,2.6,Active,True
+277,SaiEnterprises,contact@saienterprises.com,9964823687,Bhopal,Madhya Pradesh,6,2021-02-22,4.4,Active,True
+278,BlueIndia,sales@blueindia.com,9468472812,Madurai,Tamil Nadu,9,2023-09-02,3.3,Active,False
+279,UrbanFashion,contact@urbanfashion.com,9605497119,New Delhi,Delhi,9,2024-07-06,3.4,Active,True
+280,RoyalFashion,info@royalfashion.com,9946205663,Warangal,Telangana,5,2023-08-08,3.7,Active,True
+281,SaiHub,info@saihub.com,9668909764,Surat,Gujarat,1,2024-06-03,4.6,Active,True
+282,ShreeLifestyle,sales@shreelifestyle.com,9436525794,Mumbai,Maharashtra,8,2021-12-12,4.1,Active,True
+283,NationalSupplies,info@nationalsupplies.com,9560662565,Jodhpur,Rajasthan,1,2016-02-13,4.4,Active,True
+284,TechRetail,sales@techretail.com,9342950952,Warangal,Telangana,3,2020-10-27,4.1,Active,True
+285,GalaxyPoint,hello@galaxypoint.com,9662767039,Warangal,Telangana,3,2023-10-01,4.6,Inactive,False
+286,SuperRetail,sales@superretail.com,9340863230,New Delhi,Delhi,1,2021-12-13,4.9,Active,True
+287,GreenStore,hello@greenstore.com,9151497057,Hubballi,Karnataka,1,2015-08-26,4.2,Active,True
+288,StarHub,hello@starhub.com,9389885759,Indore,Madhya Pradesh,7,2024-04-17,4.2,Active,True
+289,GreenTraders,support@greentraders.com,9992815061,Lucknow,Uttar Pradesh,6,2024-10-29,4.8,Inactive,True
+290,RoyalRetail,contact@royalretail.com,9821160591,Bengaluru,Karnataka,10,2021-11-02,3.3,Active,True
+291,UrbanStore,support@urbanstore.com,9486777550,Warangal,Telangana,2,2018-04-04,4.6,Active,True
+292,ModernMart,support@modernmart.com,9975061242,Hyderabad,Telangana,2,2023-07-24,4.7,Active,True
+293,BrightSolutions,contact@brightsolutions.com,9242283221,Pune,Maharashtra,2,2023-09-16,3.8,Active,True
+294,ClassicCenter,contact@classiccenter.com,9834937767,New Delhi,Delhi,8,2020-04-22,4.0,Active,True
+295,StarPoint,hello@starpoint.com,9877145921,Indore,Madhya Pradesh,6,2021-07-15,4.3,Active,True
+296,TechSolutions,hello@techsolutions.com,9603895158,Jaipur,Rajasthan,2,2024-11-24,5.0,Active,True
+297,PremiumIndia,info@premiumindia.com,9194510603,Jodhpur,Rajasthan,6,2020-10-15,4.0,Active,True
+298,OmRetail,contact@omretail.com,9950170825,Bhopal,Madhya Pradesh,9,2023-07-24,3.1,Active,True
+299,NextOutlet,contact@nextoutlet.com,9204622201,Chennai,Tamil Nadu,6,2022-08-21,4.1,Active,False
+300,NextSupplies,contact@nextsupplies.com,9373041065,Indore,Madhya Pradesh,4,2020-03-15,4.9,Active,True
+301,MetroSupplies,contact@metrosupplies.com,9779936769,Indore,Madhya Pradesh,8,2023-10-30,4.7,Active,True
+302,NationalIndia,info@nationalindia.com,9645818292,New Delhi,Delhi,3,2019-10-22,4.2,Inactive,False
+303,ExpressFashion,info@expressfashion.com,9964144020,New Delhi,Delhi,7,2023-11-16,4.9,Active,True
+304,GlobalTraders,hello@globaltraders.com,9867064555,Vadodara,Gujarat,6,2024-05-15,2.6,Inactive,True
+305,NextLifestyle,contact@nextlifestyle.com,9916875967,Warangal,Telangana,10,2023-05-05,4.4,Active,False
+306,NationalRetail,hello@nationalretail.com,9214321799,Nashik,Maharashtra,3,2018-04-26,4.9,Active,True
+307,GreenMarketplace,sales@greenmarketplace.com,9897159606,Noida,Uttar Pradesh,4,2022-08-13,4.0,Active,True
+308,GlobalCenter,info@globalcenter.com,9991187981,Madurai,Tamil Nadu,6,2025-07-13,4.1,Active,True
+309,PremiumSolutions,contact@premiumsolutions.com,9300764570,New Delhi,Delhi,7,2016-07-25,4.1,Active,True
+310,DigitalWorld,support@digitalworld.com,9740895381,Nagpur,Maharashtra,8,2025-07-17,4.9,Active,True
+311,UrbanPoint,contact@urbanpoint.com,9944238354,Lucknow,Uttar Pradesh,7,2023-04-07,4.6,Active,True
+312,ClassicFashion,sales@classicfashion.com,9908157894,Bhopal,Madhya Pradesh,9,2025-10-26,4.8,Active,False
+313,RoyalStore,support@royalstore.com,9509495719,Mysuru,Karnataka,5,2022-08-03,4.8,Active,True
+314,SaiOutlet,info@saioutlet.com,9147085363,Vadodara,Gujarat,4,2021-06-18,3.1,Inactive,True
+315,GalaxyWorld,contact@galaxyworld.com,9593089342,Hyderabad,Telangana,2,2018-12-31,3.7,Active,True
+316,NationalLifestyle,contact@nationallifestyle.com,9518224445,Hubballi,Karnataka,1,2021-05-10,3.7,Active,True
+317,FutureFashion,hello@futurefashion.com,9192884274,Surat,Gujarat,7,2021-03-05,4.2,Active,True
+318,OmFashion,sales@omfashion.com,9420035728,Hyderabad,Telangana,9,2024-05-24,4.5,Active,True
+319,EliteSolutions,sales@elitesolutions.com,9337069279,Bhopal,Madhya Pradesh,4,2018-04-22,3.9,Suspended,True
+320,OmMart,support@ommart.com,9821216549,Mysuru,Karnataka,2,2020-09-24,3.1,Active,True
+321,SmartTraders,support@smarttraders.com,9621689527,Jodhpur,Rajasthan,10,2021-11-09,4.1,Active,True
+322,RoyalEnterprises,info@royalenterprises.com,9397082704,Hyderabad,Telangana,6,2025-04-18,4.3,Active,True
+323,GlobalElectronics,contact@globalelectronics.com,9881067043,Bengaluru,Karnataka,9,2023-04-10,3.6,Active,True
+324,GalaxyFashion,sales@galaxyfashion.com,9598969054,Kanpur,Uttar Pradesh,2,2023-10-26,4.6,Inactive,False
+325,EliteOutlet,sales@eliteoutlet.com,9292355674,Indore,Madhya Pradesh,8,2024-02-11,4.7,Active,True
+326,DigitalTraders,hello@digitaltraders.com,9949824193,Warangal,Telangana,8,2026-06-21,5.0,Active,True
+327,SaiElectronics,support@saielectronics.com,9721300772,Kanpur,Uttar Pradesh,3,2023-02-15,4.8,Active,True
+328,ClassicEssentials,info@classicessentials.com,9951109462,Jaipur,Rajasthan,9,2025-03-26,4.5,Active,True
+329,NextHub,sales@nexthub.com,9545188049,Hyderabad,Telangana,8,2023-09-09,4.6,Active,True
+330,UrbanWorld,hello@urbanworld.com,9142080866,Indore,Madhya Pradesh,1,2019-01-04,4.2,Inactive,True
+331,ShreeCorner,sales@shreecorner.com,9335540097,Kolkata,West Bengal,10,2024-07-05,4.2,Active,True
+332,OmPoint,contact@ompoint.com,9200061963,Jaipur,Rajasthan,10,2021-01-03,3.8,Active,True
+333,ClassicStore,hello@classicstore.com,9560588284,Coimbatore,Tamil Nadu,7,2021-07-20,4.1,Active,False
+334,GlobalRetail,contact@globalretail.com,9720608968,Lucknow,Uttar Pradesh,9,2016-02-25,4.1,Active,True
+335,BrightIndia,support@brightindia.com,9380571840,Noida,Uttar Pradesh,10,2022-07-19,2.4,Active,True
+336,OmMarketplace,info@ommarketplace.com,9372491666,Vadodara,Gujarat,6,2025-02-11,4.3,Active,True
+337,ExpressMarketplace,hello@expressmarketplace.com,9848459689,Pune,Maharashtra,7,2024-01-06,3.8,Active,True
+338,GalaxyBazaar,info@galaxybazaar.com,9759240529,Noida,Uttar Pradesh,10,2018-12-25,4.2,Active,True
+339,GlobalStore,hello@globalstore.com,9648196577,Kanpur,Uttar Pradesh,4,2021-03-15,4.8,Inactive,True
+340,SuperIndia,sales@superindia.com,9655921993,Mumbai,Maharashtra,2,2022-12-14,4.9,Active,False
+341,PremiumBazaar,hello@premiumbazaar.com,9104994458,Ahmedabad,Gujarat,7,2021-05-29,4.1,Active,True
+342,ModernMarketplace,hello@modernmarketplace.com,9368587379,Jodhpur,Rajasthan,10,2022-05-14,3.9,Active,True
+343,BlueRetail,info@blueretail.com,9224842139,Ahmedabad,Gujarat,7,2022-03-28,4.1,Active,False
+344,SaiMarketplace,contact@saimarketplace.com,9852498189,Ahmedabad,Gujarat,5,2019-12-02,5.0,Active,True
+345,BlueElectronics,sales@blueelectronics.com,9901179178,Coimbatore,Tamil Nadu,4,2019-05-11,3.6,Active,True
+346,GreenEssentials,sales@greenessentials.com,9936378830,Bengaluru,Karnataka,2,2023-10-06,4.3,Active,True
+347,GreenLifestyle,info@greenlifestyle.com,9716885481,Surat,Gujarat,3,2025-06-07,4.6,Active,True
+348,NationalCorner,hello@nationalcorner.com,9134963873,Noida,Uttar Pradesh,7,2026-03-05,5.0,Active,True
+349,ModernSolutions,hello@modernsolutions.com,9382232003,Coimbatore,Tamil Nadu,8,2024-12-17,4.7,Active,True
+350,SuperElectronics,info@superelectronics.com,9293154584,Indore,Madhya Pradesh,10,2021-07-24,4.3,Active,False
+351,ShreeRetail,sales@shreeretail.com,9552604373,Jaipur,Rajasthan,9,2022-10-09,3.6,Active,True
+352,ModernCorner,contact@moderncorner.com,9583027931,Warangal,Telangana,6,2022-06-12,4.7,Active,True
+353,GreenFashion,info@greenfashion.com,9778295798,New Delhi,Delhi,6,2023-04-09,3.5,Active,True
+354,GreenBazaar,support@greenbazaar.com,9577706000,Warangal,Telangana,7,2018-02-17,4.6,Active,True
+355,GalaxyMart,sales@galaxymart.com,9279218750,Kolkata,West Bengal,2,2020-08-27,4.0,Active,True
+356,SmartHub,support@smarthub.com,9763682156,New Delhi,Delhi,7,2022-05-22,4.2,Active,True
+357,ExpressCorner,info@expresscorner.com,9680447823,Vadodara,Gujarat,8,2018-12-29,4.2,Active,False
+358,NationalPoint,hello@nationalpoint.com,9432496317,Warangal,Telangana,9,2018-07-03,4.1,Active,True
+359,MetroCorner,support@metrocorner.com,9109806050,Siliguri,West Bengal,10,2018-01-15,4.1,Active,True
+360,RoyalSolutions,info@royalsolutions.com,9989516564,Kolkata,West Bengal,5,2019-05-06,4.3,Active,True
+361,ModernFashion,hello@modernfashion.com,9968451673,Surat,Gujarat,4,2024-07-05,4.6,Active,True
+362,EliteStore,hello@elitestore.com,9123762858,New Delhi,Delhi,5,2023-06-17,4.1,Active,True
+363,ExpressSupplies,support@expresssupplies.com,9943666157,Jodhpur,Rajasthan,8,2021-03-06,4.9,Inactive,True
+364,SmartMarketplace,info@smartmarketplace.com,9294995530,Coimbatore,Tamil Nadu,7,2024-05-04,2.6,Active,False
+365,GalaxyHub,hello@galaxyhub.com,9815120513,Coimbatore,Tamil Nadu,7,2022-10-02,3.1,Active,True
+366,BrightSupplies,support@brightsupplies.com,9116178827,New Delhi,Delhi,10,2019-05-13,4.5,Active,True
+367,ShreeMart,hello@shreemart.com,9463377959,Mumbai,Maharashtra,6,2021-08-08,4.6,Suspended,True
+368,MetroEssentials,info@metroessentials.com,9887255513,Chennai,Tamil Nadu,7,2021-10-03,4.5,Active,True
+369,ModernCenter,hello@moderncenter.com,9272167429,Hubballi,Karnataka,3,2022-06-24,4.2,Active,True
+370,TechCenter,support@techcenter.com,9933241446,Indore,Madhya Pradesh,6,2025-11-05,3.3,Active,True
+371,FutureLifestyle,info@futurelifestyle.com,9788165352,Hyderabad,Telangana,2,2021-05-17,5.0,Active,True
+372,PrimeCorner,sales@primecorner.com,9206035856,Nashik,Maharashtra,8,2022-06-09,4.6,Active,True
+373,GlobalCorner,contact@globalcorner.com,9602574675,Nagpur,Maharashtra,9,2026-06-30,4.1,Active,False
+374,PrimeHub,sales@primehub.com,9670866707,Kolkata,West Bengal,4,2022-05-25,4.4,Active,True
+375,SuperPoint,support@superpoint.com,9806019487,New Delhi,Delhi,6,2025-07-17,2.3,Active,True
+376,GlobalBazaar,hello@globalbazaar.com,9899484915,Surat,Gujarat,8,2023-03-25,4.5,Active,True
+377,EliteFashion,contact@elitefashion.com,9422481128,Chennai,Tamil Nadu,6,2016-07-19,3.2,Active,True
+378,PrimeStore,info@primestore.com,9481882460,New Delhi,Delhi,5,2022-05-27,4.9,Active,True
+379,GlobalMart,support@globalmart.com,9951374399,Jaipur,Rajasthan,8,2025-12-07,4.3,Active,True
+380,SuperMart,contact@supermart.com,9927749187,Warangal,Telangana,7,2021-09-04,3.6,Active,True
+381,TechBazaar,contact@techbazaar.com,9427258676,Lucknow,Uttar Pradesh,6,2021-11-03,4.8,Active,True
+382,MetroCenter,hello@metrocenter.com,9641949014,Bengaluru,Karnataka,7,2023-03-19,4.7,Active,True
+383,OmBazaar,support@ombazaar.com,9191352864,Siliguri,West Bengal,3,2025-05-07,4.2,Active,True
+384,ExpressIndia,contact@expressindia.com,9220828027,Siliguri,West Bengal,6,2022-10-19,4.8,Active,True
+385,RoyalCenter,sales@royalcenter.com,9993830749,Ahmedabad,Gujarat,6,2021-08-16,4.7,Active,True
+386,MetroElectronics,hello@metroelectronics.com,9618645569,Indore,Madhya Pradesh,1,2023-12-15,4.6,Active,True
+387,StarElectronics,support@starelectronics.com,9215847550,Nagpur,Maharashtra,7,2020-02-19,4.3,Inactive,True
+388,TechEssentials,support@techessentials.com,9481584364,Ahmedabad,Gujarat,9,2021-05-07,4.4,Active,False
+389,TechMarketplace,support@techmarketplace.com,9342217581,New Delhi,Delhi,7,2021-06-29,4.2,Active,False
+390,NationalEnterprises,hello@nationalenterprises.com,9264013159,Siliguri,West Bengal,10,2021-09-27,4.6,Active,False
+391,NextPoint,sales@nextpoint.com,9561778017,New Delhi,Delhi,6,2020-12-27,3.0,Active,False
+392,ElitePoint,hello@elitepoint.com,9603330974,Hyderabad,Telangana,7,2021-10-09,4.6,Active,False
+393,RoyalTraders,sales@royaltraders.com,9171013341,New Delhi,Delhi,10,2022-10-28,3.9,Active,True
+394,GalaxyIndia,hello@galaxyindia.com,9675696756,Kanpur,Uttar Pradesh,1,2023-07-14,4.4,Active,True
+395,GlobalFashion,info@globalfashion.com,9527392079,Surat,Gujarat,8,2019-08-26,4.0,Active,True
+396,BrightOutlet,contact@brightoutlet.com,9875936087,Lucknow,Uttar Pradesh,3,2025-12-13,4.2,Active,True
+397,NextTraders,info@nexttraders.com,9196829676,Surat,Gujarat,3,2024-05-06,4.9,Active,True
+398,NextBazaar,hello@nextbazaar.com,9757207875,New Delhi,Delhi,9,2021-12-16,3.2,Active,True
+399,TechEnterprises,hello@techenterprises.com,9398621490,Indore,Madhya Pradesh,1,2018-04-23,4.0,Active,True
+400,ExpressMart,contact@expressmart.com,9216917219,Kolkata,West Bengal,3,2021-12-30,3.3,Active,True
+401,ExpressEssentials,info@expressessentials.com,9980752567,Mysuru,Karnataka,9,2020-08-22,4.8,Active,True
+402,ExpressElectronics,hello@expresselectronics.com,9717554752,Bhopal,Madhya Pradesh,3,2023-10-14,4.3,Active,True
+403,NationalStore,support@nationalstore.com,9475433873,Kanpur,Uttar Pradesh,4,2016-02-17,4.1,Active,True
+404,MetroRetail,contact@metroretail.com,9836410568,Warangal,Telangana,7,2025-09-22,3.3,Active,False
+405,BlueLifestyle,hello@bluelifestyle.com,9675402650,Pune,Maharashtra,10,2022-12-26,4.6,Active,True
+406,NextStore,support@nextstore.com,9544389067,Mysuru,Karnataka,4,2022-09-12,4.7,Active,True
+407,SaiRetail,info@sairetail.com,9636929225,New Delhi,Delhi,6,2026-01-20,3.6,Active,True
+408,StarWorld,sales@starworld.com,9878001797,Nashik,Maharashtra,7,2025-06-18,4.7,Active,False
+409,SmartLifestyle,info@smartlifestyle.com,9149542207,Hubballi,Karnataka,5,2016-10-01,4.1,Active,True
+410,MetroOutlet,contact@metrooutlet.com,9392760228,New Delhi,Delhi,5,2020-11-18,4.8,Active,True
+411,BlueEnterprises,sales@blueenterprises.com,9176496452,Vadodara,Gujarat,6,2021-04-14,4.7,Active,True
+412,BlueOutlet,hello@blueoutlet.com,9481848698,Surat,Gujarat,4,2025-11-17,3.5,Inactive,True
+413,BlueWorld,contact@blueworld.com,9972792130,Jaipur,Rajasthan,8,2023-08-12,4.4,Active,False
+414,FutureMarketplace,info@futuremarketplace.com,9530373413,Bhopal,Madhya Pradesh,4,2021-11-22,2.3,Active,False
+415,BlueSupplies,info@bluesupplies.com,9709038381,Hyderabad,Telangana,3,2021-06-09,4.3,Active,True
+416,GreenOutlet,support@greenoutlet.com,9696020884,Mysuru,Karnataka,3,2023-04-12,4.6,Active,True
+417,SuperLifestyle,info@superlifestyle.com,9792551787,Mumbai,Maharashtra,4,2026-06-27,4.3,Active,True
+418,FutureBazaar,hello@futurebazaar.com,9720549135,Jaipur,Rajasthan,4,2022-10-11,4.9,Active,False
+419,ClassicHub,support@classichub.com,9133484360,Coimbatore,Tamil Nadu,10,2022-10-14,4.2,Active,True
+420,UrbanCorner,sales@urbancorner.com,9302107025,Noida,Uttar Pradesh,6,2024-06-06,4.9,Active,True
+421,EliteCorner,info@elitecorner.com,9245788098,Bengaluru,Karnataka,7,2026-03-18,4.4,Active,True
+422,GreenRetail,hello@greenretail.com,9634891964,Madurai,Tamil Nadu,9,2023-01-22,4.5,Active,True
+423,SmartPoint,hello@smartpoint.com,9194968544,Coimbatore,Tamil Nadu,2,2022-10-02,4.4,Active,True
+424,ModernElectronics,contact@modernelectronics.com,9896103507,Hubballi,Karnataka,3,2026-01-26,4.7,Active,True
+425,ShreeSolutions,hello@shreesolutions.com,9135530684,Hyderabad,Telangana,3,2021-11-12,3.8,Active,True
+426,GalaxyEssentials,contact@galaxyessentials.com,9789622604,Ahmedabad,Gujarat,1,2020-03-27,4.2,Inactive,False
+427,ShreeElectronics,sales@shreeelectronics.com,9669557898,Kolkata,West Bengal,5,2025-04-04,4.7,Active,False
+428,PrimeMarketplace,support@primemarketplace.com,9563626557,Bhopal,Madhya Pradesh,6,2021-07-21,4.8,Active,True
+429,DigitalRetail,hello@digitalretail.com,9198721207,Pune,Maharashtra,10,2021-09-03,4.8,Active,True
+430,UrbanHub,sales@urbanhub.com,9372017183,Surat,Gujarat,2,2022-07-21,3.8,Active,True
+431,UrbanOutlet,contact@urbanoutlet.com,9627982241,Madurai,Tamil Nadu,7,2020-10-04,4.8,Active,True
+432,EliteRetail,contact@eliteretail.com,9813615080,Siliguri,West Bengal,3,2025-02-04,4.2,Inactive,True
+433,OmEnterprises,contact@omenterprises.com,9512771985,Jaipur,Rajasthan,10,2023-01-06,4.7,Active,False
+434,BrightTraders,sales@brighttraders.com,9695363509,Nashik,Maharashtra,4,2023-03-10,3.8,Active,True
+435,DigitalLifestyle,contact@digitallifestyle.com,9462622584,Nashik,Maharashtra,2,2020-12-07,4.3,Active,True
+436,BrightStore,support@brightstore.com,9981262028,Mysuru,Karnataka,10,2018-05-11,3.5,Active,True
+437,StarIndia,hello@starindia.com,9247456327,Hyderabad,Telangana,1,2022-11-19,4.6,Active,True
+438,GreenSolutions,info@greensolutions.com,9757183487,Hubballi,Karnataka,5,2021-01-10,4.1,Suspended,False
+439,FutureTraders,info@futuretraders.com,9369919135,Warangal,Telangana,1,2018-04-18,3.1,Active,True
+440,PrimeMart,sales@primemart.com,9874600661,Jodhpur,Rajasthan,7,2019-10-30,4.6,Active,True
+441,NationalTraders,info@nationaltraders.com,9336934839,Mysuru,Karnataka,10,2023-06-12,5.0,Active,True
+442,BrightEssentials,support@brightessentials.com,9317122293,Hyderabad,Telangana,1,2021-05-03,4.6,Active,True
+443,SaiCorner,sales@saicorner.com,9735205122,Jodhpur,Rajasthan,5,2017-05-26,4.1,Active,True
+444,DigitalSupplies,hello@digitalsupplies.com,9523398047,Jaipur,Rajasthan,8,2021-06-20,4.0,Active,False
+445,EliteEssentials,support@eliteessentials.com,9356691289,Bengaluru,Karnataka,8,2021-11-28,4.3,Active,True
+446,OmIndia,sales@omindia.com,9945777677,Hubballi,Karnataka,6,2024-02-26,4.4,Active,True
+447,RoyalMarketplace,contact@royalmarketplace.com,9796899673,Jaipur,Rajasthan,4,2022-07-02,4.2,Active,True
+448,SaiPoint,contact@saipoint.com,9604834590,Kanpur,Uttar Pradesh,9,2025-04-07,4.3,Inactive,False
+449,ExpressLifestyle,info@expresslifestyle.com,9737112501,Kanpur,Uttar Pradesh,8,2021-09-28,3.6,Active,True
+450,UrbanEnterprises,contact@urbanenterprises.com,9144186034,Hyderabad,Telangana,8,2022-01-13,4.9,Active,False
+451,GalaxyMarketplace,hello@galaxymarketplace.com,9455709881,Surat,Gujarat,5,2026-02-11,2.5,Active,True
+452,PremiumEssentials,contact@premiumessentials.com,9450433330,Pune,Maharashtra,10,2022-07-24,4.5,Active,True
+453,FutureEssentials,support@futureessentials.com,9430804119,Jaipur,Rajasthan,4,2025-03-30,4.2,Active,True
+454,GalaxySupplies,info@galaxysupplies.com,9249859658,Indore,Madhya Pradesh,3,2020-08-30,2.5,Active,False
+455,NationalSolutions,hello@nationalsolutions.com,9596197535,Indore,Madhya Pradesh,4,2020-02-21,4.7,Active,True
+456,ShreeEnterprises,contact@shreeenterprises.com,9228156091,Surat,Gujarat,2,2023-01-11,4.2,Active,True
+457,FuturePoint,contact@futurepoint.com,9651759949,Madurai,Tamil Nadu,3,2025-09-05,3.7,Active,False
+458,BlueEssentials,sales@blueessentials.com,9113848767,New Delhi,Delhi,6,2025-02-25,5.0,Active,True
+459,NationalOutlet,contact@nationaloutlet.com,9225161415,New Delhi,Delhi,8,2023-01-13,4.7,Suspended,True
+460,FutureWorld,sales@futureworld.com,9239820778,Mysuru,Karnataka,2,2020-09-18,3.5,Active,True
+461,SaiIndia,contact@saiindia.com,9603673335,Mysuru,Karnataka,1,2018-01-22,3.8,Inactive,True
+462,GlobalSolutions,support@globalsolutions.com,9131416738,Bengaluru,Karnataka,5,2024-12-22,4.9,Active,True
+463,RoyalSupplies,contact@royalsupplies.com,9917557160,Hyderabad,Telangana,8,2018-10-06,4.1,Active,True
+464,SaiMart,contact@saimart.com,9253939747,Siliguri,West Bengal,10,2026-01-29,3.4,Active,False
+465,ExpressTraders,hello@expresstraders.com,9534102044,Bengaluru,Karnataka,7,2024-10-12,3.8,Active,True
+466,StarCenter,info@starcenter.com,9620263193,Noida,Uttar Pradesh,3,2024-04-20,4.7,Active,False
+467,StarRetail,sales@starretail.com,9510849034,Bhopal,Madhya Pradesh,3,2021-07-17,3.8,Active,True
+468,DigitalStore,sales@digitalstore.com,9697716156,Vadodara,Gujarat,3,2021-10-03,4.7,Active,True
+469,BrightFashion,hello@brightfashion.com,9191205492,Mysuru,Karnataka,2,2021-02-10,4.0,Active,True
+470,ModernRetail,info@modernretail.com,9731348637,Nagpur,Maharashtra,7,2022-10-23,4.3,Active,True
+471,FutureElectronics,contact@futureelectronics.com,9419245200,Bhopal,Madhya Pradesh,4,2021-07-08,4.2,Active,True
+472,ShreeSupplies,sales@shreesupplies.com,9472928235,Hubballi,Karnataka,5,2022-09-07,4.2,Active,True
+473,EliteEnterprises,sales@eliteenterprises.com,9901476885,Surat,Gujarat,7,2021-05-12,4.3,Active,True
+474,RoyalHub,sales@royalhub.com,9306068248,Pune,Maharashtra,5,2023-06-13,4.4,Active,True
+475,TechStore,contact@techstore.com,9437052680,Bhopal,Madhya Pradesh,2,2025-02-20,3.8,Active,True
+476,GalaxyEnterprises,info@galaxyenterprises.com,9334084722,New Delhi,Delhi,3,2019-07-17,4.1,Active,True
+477,BrightEnterprises,contact@brightenterprises.com,9596524942,Coimbatore,Tamil Nadu,3,2017-05-28,4.1,Inactive,True
+478,BlueHub,contact@bluehub.com,9871573078,Noida,Uttar Pradesh,8,2025-05-21,4.9,Active,False
+479,RoyalEssentials,hello@royalessentials.com,9834726187,Jaipur,Rajasthan,1,2022-10-25,2.4,Active,True
+480,SaiCenter,info@saicenter.com,9424814794,Siliguri,West Bengal,3,2025-07-26,4.6,Active,True
+481,ExpressWorld,contact@expressworld.com,9187040987,Jodhpur,Rajasthan,8,2022-07-06,4.0,Inactive,True
+482,PremiumEnterprises,sales@premiumenterprises.com,9631848216,Kanpur,Uttar Pradesh,9,2020-08-16,4.4,Active,True
+483,SmartCenter,support@smartcenter.com,9823067158,Mysuru,Karnataka,9,2017-03-19,4.6,Active,True
+484,MetroHub,contact@metrohub.com,9939292867,Indore,Madhya Pradesh,9,2015-08-04,4.6,Active,True
+485,MetroSolutions,contact@metrosolutions.com,9129947975,Kanpur,Uttar Pradesh,5,2019-09-15,4.4,Active,True
+486,EliteHub,support@elitehub.com,9427410286,Warangal,Telangana,5,2021-10-20,4.8,Active,False
+487,OmHub,hello@omhub.com,9191431302,Madurai,Tamil Nadu,9,2021-04-19,3.2,Active,True
+488,OmSolutions,support@omsolutions.com,9254655603,New Delhi,Delhi,2,2020-04-14,4.0,Inactive,True
+489,TechSupplies,sales@techsupplies.com,9119996117,Vadodara,Gujarat,10,2022-05-20,3.8,Active,True
+490,EliteElectronics,hello@eliteelectronics.com,9344775738,Kanpur,Uttar Pradesh,5,2018-02-17,2.6,Active,True
+491,GlobalLifestyle,contact@globallifestyle.com,9713986637,Pune,Maharashtra,7,2024-09-12,4.7,Active,True
+492,StarStore,hello@starstore.com,9156052697,Surat,Gujarat,7,2020-04-21,4.8,Active,True
+493,OmWorld,sales@omworld.com,9604147303,Vadodara,Gujarat,6,2021-01-17,4.3,Active,True
+494,DigitalCenter,hello@digitalcenter.com,9303046903,Noida,Uttar Pradesh,3,2021-04-20,4.1,Active,True
+495,UrbanTraders,contact@urbantraders.com,9514350655,Ahmedabad,Gujarat,4,2023-12-10,4.5,Active,True
+496,NextIndia,contact@nextindia.com,9522572507,Pune,Maharashtra,3,2022-08-21,4.0,Active,False
+497,EliteBazaar,sales@elitebazaar.com,9789384018,Pune,Maharashtra,10,2025-03-30,4.1,Active,True
+498,StarTraders,contact@startraders.com,9785125940,Hyderabad,Telangana,6,2026-04-06,4.3,Active,True
+499,OmElectronics,support@omelectronics.com,9509935637,New Delhi,Delhi,8,2019-06-05,4.4,Active,True
+500,RoyalOutlet,hello@royaloutlet.com,9509181353,Bengaluru,Karnataka,8,2024-12-25,3.4,Active,False
